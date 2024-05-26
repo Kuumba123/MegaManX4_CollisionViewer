@@ -1,0 +1,2 @@
+# MegaMan X4 Collision Viewer
+This hack allows you to toggle on/off a collision viewer via the select button. I orignally attempted to make this on CousinCatnip's romhack podcast: https://www.youtube.com/watch?v=rYbyNfpmoxI but failed , but heres the finished project. You will also need the C header , GNU linker and python files over at https://github.com/Kuumba123/MegaManX4_PS1_Modding as well as Redhot's toolchain: https://github.com/mateusfavarin/psx-modding-toolchain

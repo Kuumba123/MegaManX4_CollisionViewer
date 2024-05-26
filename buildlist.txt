@@ -1,0 +1,9 @@
+american, exe, 0x80026648, 0x0, src/background.c
+american, exe, 0x800ee558, 0x0, src/option.c
+american, exe, 0x80020040, 0x0, src/menuHook.s
+
+//debug
+american, exe, 0x80026CEC, 0x0, src/debug/font.c
+american, exe, 0x80015a50, 0x0, src/debug/font2.c
+american, exe, 0x8001d074, 0x0, src/debug/loadfont.s
+american, exe, 0x800120f4, 0x0, src/debug/texthook.s
