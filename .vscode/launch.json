@@ -10,7 +10,7 @@
         "executable": "debug/mod.elf",
         "gdbpath": "/usr/bin/gdb-multiarch",
         "windows": {
-          "gdbpath": "C:/Users/kuumb/AppData/Roaming/mips/mips/bin/gdb.exe"
+          "gdbpath": "gdb-multiarch"
         },
         "cwd": "${workspaceRoot}",
         "autorun": [
